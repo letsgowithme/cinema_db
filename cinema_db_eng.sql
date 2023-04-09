@@ -119,3 +119,4 @@ INSERT INTO cinema(id, name, address) VALUES(3, "Mood booster", "53 rue de Mouli
 INSERT INTO reservation(rate_id, session_id, user_id) VALUES(1, 1, 3);
 
 INSERT INTO reservation(rate_id, session_id, user_id) VALUES(1, 2, 3);
+  
