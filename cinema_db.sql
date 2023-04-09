@@ -113,7 +113,3 @@ VALUES(1, 2, "2023-04-15 15:00:00"),  (2, 3, "2023-04-15 15:00:00"),  (2, 1, "20
 INSERT INTO tarif(nom, prix) VALUES("Etudiant", 7.6), ("Moins de 14 ans", 5.9);
 
 INSERT INTO cinema(id, nom, adresse) VALUES(2, "Family Cinema", "5 rue du Pont Paris");
-
-
-
-
