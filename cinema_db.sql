@@ -2,7 +2,7 @@ CREATE DATABASE cinema_db CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 SHOW DATABASES;
 
-USE cinema_db;
+USE cinema_db;  
 
 CREATE TABLE cinema(
 id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
